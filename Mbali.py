@@ -1,8 +1,7 @@
 
 import numpy as np
 import pylab
-from scipy.integrate import quad
-from matplotlib import pyplot as plt
+
 
 #Problem3
 def points(n):
