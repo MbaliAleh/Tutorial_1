@@ -50,7 +50,7 @@ if __name__=='__main__':
   
 		print 'error on 11 points = ' + repr(Error)
   
-m = [10,30,100,300,1000]
+l = [10,30,100,300,1000]
 
 for n in l:
     
